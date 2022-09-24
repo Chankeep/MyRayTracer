@@ -83,7 +83,7 @@ $$L_o(p,\omega_o)\approx L_{emit}(p,\omega_o) + albedo * L_{input}(p,\omega_i)$$
 Lo = emission + albedo * Radiance(ray(intersect_pos, refl_dir));
 ```
 效果实现如图，spp为400
-![file](https://github.com/TheChanCell/MyRayTracer/blob/master/MyRaytracer/image/BRDFdiffuse.jpg)
+![file](https://github.com/TheChanCell/MyRayTracer/blob/master/MyRaytracer/image/specular_BRDF.jpg)
 
 ### update by chankkep on 2022/9/23 23:31
 - 追加镜面反射specularReflection还有镜面透射specularTransmission，主要是跟着[pbrt](https://www.pbr-book.org/3ed-2018/Reflection_Models/Specular_Reflection_and_Transmission#SpecularTransmission)还有上次那个大佬的文章写
