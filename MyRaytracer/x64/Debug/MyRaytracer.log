@@ -1,36 +1,73 @@
-﻿  main.cpp
-D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x70c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x70f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x710 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x711 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x712 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x713 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x715 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x718 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x719 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x71a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x71c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x71d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x71f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x720 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x721 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x72b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x72c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x72d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x72e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x730 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x731 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x732 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x734 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x735 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x736 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x73b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x73d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x73e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x740 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x742 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x743 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x745 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x746 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x748 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+﻿D:\Tools\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Platforms\x64\PlatformToolsets\v143\ImportAfter\Intel.Libs.IPP1A.v143.targets(36,5): warning : Could not expand IPP1AMajorVersion variable. Corresponding version of Intel(R) IPP is not installed or the registry information may be incorrect. 
+D:\Tools\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Platforms\x64\PlatformToolsets\v143\ImportAfter\Intel.Libs.IPP1A.v143.targets(37,5): warning : Could not expand IPP1AMinorVersion variable. Corresponding version of Intel(R) IPP is not installed or the registry information may be incorrect. 
+D:\Tools\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Platforms\x64\PlatformToolsets\v143\ImportAfter\Intel.Libs.IPP1A.v143.targets(38,5): warning : Could not expand IPP1AIncludeDir variable. Corresponding version of Intel(R) IPP is not installed or the registry information may be incorrect. 
+D:\Tools\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Platforms\x64\PlatformToolsets\v143\ImportAfter\Intel.Libs.IPP1A.v143.targets(39,5): warning : Could not expand IPP1ALibDir variable. Corresponding version of Intel(R) IPP is not installed or the registry information may be incorrect. 
+  MyRaytracer.cpp
+  main.cpp
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x618 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x61b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x61c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x61d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x61e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x61f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x621 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x624 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x625 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x626 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x628 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x629 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x62b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x62c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x62d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x637 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x638 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x639 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x63a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x63c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x63d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x63e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x640 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x641 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x642 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x647 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x649 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x64a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x64c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x64e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x64f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x651 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x652 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0x654 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0xf6a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0xf6c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0xf6e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0xf72 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0xf73 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0xf79 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0xf7a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0xf7c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0xf7d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0xf80 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0xf81 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0xf82 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0xf84 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0xf85 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0xf86 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0xf87 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0xf8a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0xf8d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0xf8e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0xf8f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0xf90 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0xfc6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0xfc9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0xfca 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0xfcc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0xfcd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0xfce 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0xfd0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0xfd2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\CODE\Raytracing\MyRaytracer\MyRaytracer\main.cpp(1,1): warning C4828: 文件包含在偏移 0xfd5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  qrc_MyRaytracer.cpp
+  moc_MyRaytracer.cpp
   MyRaytracer.vcxproj -> D:\CODE\Raytracing\MyRaytracer\x64\Debug\MyRaytracer.exe

@@ -164,7 +164,10 @@ return inf.emission + inf.albedo * Li;
 ![image](https://github.com/TheChanCell/MyRayTracer/blob/master/MyRaytracer/image/Fresnel.jpg)
 
 收工！睡觉
-### 下一步
-- 增加三角形类，可以衍生出好多几何体结构了，平面、立方体之类的
+### update by chankkep on 2022/9/28 12:01
+- 增加triangle类，不知道为什么它的表面辐射出来的Radiance很暗
+- 更改并行库为inter的TBB
+### TODO:
+- Qt图形界面
 - 把Radiance函数和inform结构单独拿出来做两个？类使用
 
