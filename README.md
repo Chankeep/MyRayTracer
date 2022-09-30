@@ -6,10 +6,13 @@ a small RayTracer based on Qt for study Raytracing and c++
     - [x] Vector3向量类
     - [x] Camera相机类
     - [x] Ray类
+    - [x] Transform类
+    - [x] Material材质类
     - [ ] Shape物体类
        - [x] sphere球类
        - [ ] quad平面类
-       - [ ]......
+       - [x] triangle三角形类
+       - [x] world世界类
     - [ ] BVH类
 - 目标功能：
     - [ ] 渲染
@@ -167,7 +170,13 @@ return inf.emission + inf.albedo * Li;
 ### update by chankkep on 2022/9/28 12:01
 - 增加triangle类，不知道为什么它的表面辐射出来的Radiance很暗
 - 更改并行库为inter的TBB
+
+### update by chankkep on 2022/9/30 16:05
+- 把框架改了一遍,现在有个基本的框架,Transform类代表物体的位置、角度、缩放大小，还有一个父Tranform对象，一般是从世界继承而来
+- 新添加的Material类是由之前的emission、albedo、materialtype整合在一块，可以使用shared_ptr创建多个材质实例供多个shape使用
+- 把采样和渲染的逻辑整合在sampler类里，main函数看起来清爽一些，管理起来也方便。
 ### TODO:
 - Qt图形界面
-- 把Radiance函数和inform结构单独拿出来做两个？类使用
+- 三角形求交算法感觉不对劲，还是先平面求交再求交三角形把
+- BVH加速结构
 

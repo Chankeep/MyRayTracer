@@ -1,30 +1,43 @@
 #pragma once
 #include "Ray.h"
+#include "Transform.h"
 
 class Camera
 {
+	Vector2i resolution_;
+	Vector3 direction_;
+	Vector3 left_;
+	Vector3 up_;
+	double inv_width_;
+	double inv_height_;
+	double fov_;
+	Transform transform_;
 public:
-	Camera(const Vector3& position, const Vector3& direction, double fov, int Width, int Height)
-		: position(position), direction(direction), fov(fov)
+	Camera() = default;
+	Camera(const Transform& transform, const Vector3& direction, double fov, Vector2i resolution)
+		: resolution_(resolution), direction_(direction), fov_(fov), transform_(transform)
 	{
-		invWidth = 1. / Width;
-		invHeight = 1. / Height;
+		inv_width_ = 1. / resolution.x;
+		inv_height_ = 1. / resolution.y;
 	}
 
-	Ray GenerateRay(int x, int y, double dx, double dy)
-	{
-		static double aspect_ratio = invHeight / invWidth;
-		static double tan_fov = tan(PI * 0.5 * fov / 180);
-		left = tan_fov * aspect_ratio;
-		up = left.Cross(direction).Normalize() * tan_fov;
-		Vector3 dir = left * (((x + 0.5 + dx) * invWidth) * 2 - 1) + up * (1 - ((y + 0.5 + dy) * invHeight) * 2) + direction;
-		return Ray(position, dir.Normalize());
-	}
-	Vector3 position;
-	Vector3 direction;
-	Vector3 left;
-	Vector3 up;
-	double invWidth;
-	double invHeight;
-	double fov;
+	Ray GenerateRay(int x, int y, double dx, double dy);
+		
+	Vector2i get_res() const;
+	
 };
+
+inline Ray Camera::GenerateRay(int x, int y, double dx, double dy)
+{
+	static double aspect_ratio = inv_height_ / inv_width_;
+	static double tan_fov = tan(PI * 0.5 * fov_ / 180);
+	left_ = tan_fov * aspect_ratio;
+	up_ = left_.Cross(direction_).Normalize() * tan_fov;
+	Vector3 dir = left_ * (((x + 0.5 + dx) * inv_width_) * 2 - 1) + up_ * (1 - ((y + 0.5 + dy) * inv_height_) * 2) + direction_;
+	return Ray(transform_.get_pos(), dir.Normalize());
+}
+
+inline Vector2i Camera::get_res() const
+{
+	return resolution_;
+}

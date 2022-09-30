@@ -11,6 +11,20 @@ int GammaEncoding(double x)
     return static_cast<int>(pow(clamp(x), 1 / 2.2) * 255 + .5);
 }
 
+template<typename T>
+class Vector2
+{
+public:
+    T x, y;
+    Vector2(T x_ = 0, T y_ = 0)
+    {
+        x = x_;
+        y = y_;
+    }
+};
+
+using Vector2i = Vector2<int>;
+
 class Vector3
 {
 public:

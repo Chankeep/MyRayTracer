@@ -1,5 +1,5 @@
 #pragma once
-#include"Vector.h"
+#include "Vector.h"
 
 class Ray
 {
